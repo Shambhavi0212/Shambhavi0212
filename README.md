@@ -37,6 +37,9 @@
   <a href="mailto:vallapishambhavi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/shambhavi0212/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
