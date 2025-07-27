@@ -22,7 +22,7 @@
 - 🛢️ Experienced in **MySQL** for managing structured data
 - 🌐 Comfortable with **HTML**, **CSS**, and basic **JavaScript**
 - 📚 Currently focused on mastering **Data Structures & Algorithms**
-- 📫 Reach me at: **[vallapishambhavi@gmail.com](mailto:vallapishambhavi@gmail.com)**
+- 📫 Reach me at: **[shambhavivallapi@gmail.com](mailto:shambhavivallapi@gmail.com)**
 - 📍 Based in **Hyderabad, India**
 - ⚡ Fun fact: I can turn logic into code faster than coffee into energy ☕💻
 
