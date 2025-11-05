@@ -100,11 +100,8 @@
 ---
 
 <!-- 📊 GitHub Stats -->
+<!-- 📊 GitHub Stats -->
 ### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shambhavi0212&theme=tokyo-night&bg_color=0d1117&color=ffcc00&line=00c7ff&point=ffffff&area=true" width="95%" alt="GitHub Contribution Graph"/>
-</p>
 
 <table align="center" style="border:none;">
   <tr>
@@ -133,6 +130,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/coder.gif" width="250" alt="Coding Animation"/>
 </p>
+
 
 ---
 
