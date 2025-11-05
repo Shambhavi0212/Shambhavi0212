@@ -33,7 +33,7 @@
 
   <!-- 💼 LinkedIn -->
   <a href="https://www.linkedin.com/in/shambhavi0212/" target="_blank">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3be2e4b5-c3ad-4f7a-b8d6-bd5c7d8a6b45.gif" alt="LinkedIn" width="60" height="60" style="margin: 0 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" style="margin: 0 20px;">
   </a>
 
   <!-- 📧 Gmail -->
@@ -43,7 +43,7 @@
 
   <!-- 📸 Instagram -->
   <a href="https://www.instagram.com/shambhavi0212/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="60" height="60" style="margin: 0 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" height="60" style="margin: 0 20px;">
   </a>
 
   <!-- 🌐 Portfolio -->
@@ -52,6 +52,7 @@
   </a>
 
 </p>
+
 
 ---
 
