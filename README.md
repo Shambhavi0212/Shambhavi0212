@@ -10,9 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=Shambhavi0212&label=Profile%20views&color=0e75b6&style=flat" alt="Shambhavi0212" />
 </p>
 
-<!-- ⚡ Animated Coding Section -->
+<!-- 🌿 Unique Animated Section (Girl coding in a beautiful garden) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Animation">
+  <img src="https://i.pinimg.com/originals/68/87/8b/68878b6dcba7f5462f6eeb0a91f33a6e.gif" width="520" alt="Girl Coding in a Garden">
 </p>
 
 <p align="center">
@@ -33,7 +33,6 @@
 ---
 
 ### 🔗 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/shambhavi0212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -49,7 +48,6 @@
 ---
 
 ### ⚙️ Tech Stack
-
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
@@ -60,8 +58,53 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🎨 Most Used Languages — Unique Design
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql" height="48" alt="Tech Icons"/>
+</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><strong>Java</strong></td>
+    <td>
+      <progress value="80" max="100"></progress> 80%
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td>
+      <progress value="70" max="100"></progress> 70%
+    </td>
+  </tr>
+  <tr>
+    <td><strong>C++</strong></td>
+    <td>
+      <progress value="60" max="100"></progress> 60%
+    </td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>
+      <progress value="50" max="100"></progress> 50%
+    </td>
+  </tr>
+  <tr>
+    <td><strong>MySQL</strong></td>
+    <td>
+      <progress value="65" max="100"></progress> 65%
+    </td>
+  </tr>
+</table>
+<br/>
+<sub>These bars are custom (not auto-generated), so you fully control the look & numbers.</sub>
+</div>
+
+---
+
+### 📈 GitHub Stats
 <table align="center">
   <tr>
     <td>
@@ -75,16 +118,7 @@
 
 ---
 
-### 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavi0212&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
-</p>
-
----
-
 ### 🏆 Achievements
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Shambhavi0212&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
