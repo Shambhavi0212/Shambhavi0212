@@ -1,7 +1,13 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/tal-zvon/tal-zvon/main/assets/Hand_Wave.gif" alt="wave" width="32" height="32" style="vertical-align: middle; margin: 0 6px;" />
+  Hi 
+  <img src="https://raw.githubusercontent.com/tal-zvon/tal-zvon/main/assets/Hand_Wave.gif" 
+       alt="wave" 
+       width="32" 
+       height="32" 
+       style="vertical-align: -4px; margin: 0 6px;" />
   I'm Vallapi Shambhavi
 </h1>
+
 
 <h3 align="center">A passionate problem solver and programming enthusiast from Hyderabad, India 🇮🇳</h3>
 
