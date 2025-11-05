@@ -26,31 +26,28 @@
 
 ---
 
-<!-- 🔗 Connect with Me -->
-### 🔗 Connect with Me  
+<h2 align="left">🔗 Connect with Me</h2>
 
 <p align="center">
-
-  <!-- 🟦 LinkedIn -->
-  <a href="https://www.linkedin.com/in/shambhavi0212/" target="_blank">
-    <img src="https://cdn.dribbble.com/users/118774/screenshots/1541997/media/8e588e1f9c5a61d6a8c83e92655eaa6e.gif" width="70" alt="LinkedIn Animated Logo">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="LinkedIn" width="60" height="60">
   </a>
 
-  <!-- 🟥 Gmail -->
-  <a href="mailto:vallapishambhavi@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="65" alt="Gmail Icon" style="margin-left:20px;">
+  <!-- Gmail -->
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" alt="Gmail" width="60" height="60">
   </a>
 
-  <!-- 🟪 Instagram -->
-  <a href="https://www.instagram.com/shambhavi0212/" target="_blank">
-    <img src="https://cdn.pixabay.com/animation/2023/10/06/02/39/instagram-icon-12402_512.gif" width="70" alt="Instagram Animated Logo" style="margin-left:20px;">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/your-instagram/" target="_blank">
+    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Instagram" width="60" height="60">
   </a>
 
-  <!-- 🟩 Portfolio / Behance -->
-  <a href="https://www.shambhavivallapi.in" target="_blank">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/37043079797061.560b7e7b6e2f1.gif" width="75" alt="Portfolio Animated Logo" style="margin-left:20px;">
+  <!-- Portfolio -->
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Portfolio" width="60" height="60">
   </a>
-
 </p>
 
 
