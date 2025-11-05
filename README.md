@@ -31,25 +31,26 @@
 
   <!-- 💼 LinkedIn -->
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://cdn.dribbble.com/users/730703/screenshots/1541997/media/f5e9b2a0496b4e39a4e45d38d3c9637c.gif" alt="LinkedIn" width="70" height="70">
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/1541997/media/f5e9b2a0496b4e39a4e45d38d3c9637c.gif" alt="LinkedIn" width="70" height="70" style="margin: 0 20px;">
   </a>
 
   <!-- 📧 Gmail -->
   <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" alt="Gmail" width="70" height="70">
+    <img src="https://cdn-icons-gif.flaticon.com/1478/1478869.gif" alt="Gmail" width="70" height="70" style="margin: 0 20px;">
   </a>
 
   <!-- 📸 Instagram -->
   <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Instagram" width="70" height="70">
+    <img src="https://cdn-icons-gif.flaticon.com/1478/1478870.gif" alt="Instagram" width="70" height="70" style="margin: 0 20px;">
   </a>
 
   <!-- 🌐 Portfolio -->
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Portfolio" width="70" height="70">
+    <img src="https://cdn-icons-gif.flaticon.com/1478/1478873.gif" alt="Portfolio" width="70" height="70" style="margin: 0 20px;">
   </a>
 
 </p>
+
 
 
 
