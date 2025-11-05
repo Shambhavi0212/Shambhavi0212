@@ -23,9 +23,10 @@
 
 ---
 
-<h2 align="center" style="color:#FFD700; text-shadow: 0px 0px 10px #00C7FF, 0px 0px 20px #FFD700;">
-  👩‍💻 About Me
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=00C7FF&center=true&vCenter=true&width=500&lines=👩‍💻+About+Me" alt="About Me Animated"/>
 </h2>
+
  
 
 - 🎓 **CSE Student (2022–2026)** at *St. Peter’s Engineering College, JNTUH*, with a **CGPA of 9.61/10.0**  
