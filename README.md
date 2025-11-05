@@ -23,9 +23,10 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=00C7FF&center=true&vCenter=true&width=500&lines=👩‍💻+About+Me" alt="About Me Animated"/>
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=false&vCenter=true&width=400&lines=👩‍💻+About+Me" alt="About Me Animated"/>
 </h2>
+
 
  
 
