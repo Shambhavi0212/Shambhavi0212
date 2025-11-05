@@ -56,28 +56,39 @@
 
 ---
 
-### ⚙️ Tech Stack  
+<h2 align="left">⚙️ Tech Stack</h2>
+
+<!-- 🧠 Animated Tech Icons -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="60" height="60" alt="Java" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="60" height="60" alt="Python" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="60" height="60" alt="VS Code" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="60" height="60" alt="C" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="60" height="60" alt="HTML" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="60" height="60" alt="CSS" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="60" height="60" alt="MySQL" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 </p>
 
----
-
-### 🌀 Animated Tech Icons  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-java.gif" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-python.gif" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-html.gif" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-css.gif" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-javascript.gif" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-mysql.gif" width="70" height="70">
-</p>
 
 ---
 
