@@ -10,9 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=Shambhavi0212&label=Profile%20views&color=0e75b6&style=flat" alt="Shambhavi0212" />
 </p>
 
-<!-- 🌿 Unique Animated Section (Girl coding in a beautiful garden) -->
+<!-- 🌿 Animated Girl Coding Section -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/68/87/8b/68878b6dcba7f5462f6eeb0a91f33a6e.gif" width="520" alt="Girl Coding in a Garden">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/Developer-girl.gif" width="520" alt="Girl Coding Animation">
 </p>
 
 <p align="center">
@@ -58,49 +58,15 @@
 
 ---
 
-### 🎨 Most Used Languages — Unique Design
-
+### 🎨 Animated Tech Icons
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql" height="48" alt="Tech Icons"/>
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-html.gif" width="55" height="55">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-css.gif" width="55" height="55">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-javascript.gif" width="55" height="55">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-java.gif" width="55" height="55">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-python.gif" width="55" height="55">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/icons8-mysql.gif" width="55" height="55">
 </p>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><strong>Java</strong></td>
-    <td>
-      <progress value="80" max="100"></progress> 80%
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Python</strong></td>
-    <td>
-      <progress value="70" max="100"></progress> 70%
-    </td>
-  </tr>
-  <tr>
-    <td><strong>C++</strong></td>
-    <td>
-      <progress value="60" max="100"></progress> 60%
-    </td>
-  </tr>
-  <tr>
-    <td><strong>JavaScript</strong></td>
-    <td>
-      <progress value="50" max="100"></progress> 50%
-    </td>
-  </tr>
-  <tr>
-    <td><strong>MySQL</strong></td>
-    <td>
-      <progress value="65" max="100"></progress> 65%
-    </td>
-  </tr>
-</table>
-<br/>
-<sub>These bars are custom (not auto-generated), so you fully control the look & numbers.</sub>
-</div>
 
 ---
 
@@ -134,5 +100,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Keep Coding GIF">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/coder.gif" width="400" alt="Keep Coding Animation">
 </p>
