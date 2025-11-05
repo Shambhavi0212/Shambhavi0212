@@ -90,12 +90,6 @@
 </p>
 
 
----
-
-### 💡 OOPs & Java in Action  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=F7DC6F&size=25&center=true&vCenter=true&width=500&lines=Object+Oriented+Programming;Encapsulation+✔️;Inheritance+✔️;Polymorphism+✔️;Abstraction+✔️;Java+is+Power+💥" />
-</p>
 
 ---
 
