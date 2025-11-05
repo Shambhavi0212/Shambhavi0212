@@ -23,7 +23,10 @@
 
 ---
 
-### 👩‍💻 About Me  
+<h2 align="center" style="color:#FFD700; text-shadow: 0px 0px 10px #00C7FF, 0px 0px 20px #FFD700;">
+  👩‍💻 About Me
+</h2>
+ 
 
 - 🎓 **CSE Student (2022–2026)** at *St. Peter’s Engineering College, JNTUH*, with a **CGPA of 9.61/10.0**  
 - 💻 Passionate about **Java, Frontend Development, and Problem Solving**  
