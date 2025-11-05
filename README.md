@@ -15,13 +15,15 @@
 
 <!-- 👩‍💻 About Me -->
 ### 👩‍💻 About Me  
-- 🔍 I love tackling coding challenges using **Java**, **C++**, and **Python**  
-- 🛢️ Experienced in **MySQL** for managing structured data  
-- 🌐 Comfortable with **HTML**, **CSS**, and **JavaScript**  
-- 📚 Currently focused on mastering **Data Structures & Algorithms**  
-- 📫 Reach me at: **[shambhavivallapi@gmail.com](mailto:shambhavivallapi@gmail.com)**  
-- 📍 Based in **Hyderabad, India**  
-- ⚡ Fun fact: I can turn logic into code faster than coffee into energy ☕💻  
+🎓 I’m **Vallapi Shambhavi**, a **Computer Science and Engineering student (2022–2026)** at *St. Peter’s Engineering College, JNTUH*, currently holding a **CGPA of 9.61/10.0**.  
+💻 I’m an aspiring **Software Engineer** passionate about building impactful solutions using **Java**, **Frontend Development**, and **Problem Solving**.  
+
+I’ve built projects like a **Personal Portfolio Website (TypeScript + Vercel)**, a **Forest Endangered Detection System (IoT)**, and completed **100 Days DSA** and **30 Days OOPs Challenges**, demonstrating strong coding discipline and creativity.  
+
+Certified in **Oracle Cloud**, **ServiceNow**, **Google Cloud**, and **Infosys Springboard DSA**, I actively participate in **hackathons**, **tech expos**, and **poster competitions**, often achieving top ranks and recognitions.  
+
+🌱 I believe in continuous learning and collaboration — transforming logical ideas into efficient, user-centric software.  
+💡 *Code. Create. Contribute. Repeat.*  
 
 ---
 
@@ -37,6 +39,9 @@
   <a href="https://www.instagram.com/shambhavi0212/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://www.shambhavivallapi.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1ABC9C?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -51,6 +56,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
