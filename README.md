@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://www.shambhavivallapi.in" target="_blank">
+    <img src="https://github.com/Shambhavi0212/Shambhavi0212/blob/main/ChatGPT%20Image%20Nov%205%2C%202025%2C%2003_11_34%20PM.png?raw=true" 
+         width="100%" 
+         style="border-radius: 15px;" 
+         alt="Vallapi Shambhavi Banner"/>
+  </a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Vallapi Shambhavi</h1>
 <h3 align="center">A passionate problem solver and programming enthusiast from Hyderabad, India 🇮🇳</h3>
 
