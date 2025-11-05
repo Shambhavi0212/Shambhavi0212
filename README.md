@@ -99,23 +99,39 @@
 
 ---
 
+<!-- 📊 GitHub Stats -->
 ### 📊 GitHub Stats  
-<table align="center">
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shambhavi0212&theme=tokyo-night&bg_color=0d1117&color=ffcc00&line=00c7ff&point=ffffff&area=true" width="95%" alt="GitHub Contribution Graph"/>
+</p>
+
+<table align="center" style="border:none;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Shambhavi0212&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shambhavi0212&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=00C7FF&text_color=FFFFFF&bg_color=0d1117&count_private=true" width="100%" alt="GitHub Stats"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shambhavi0212&theme=radical" alt="GitHub Streak"/>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shambhavi0212&theme=tokyonight&hide_border=false&ring=FFD700&fire=FFD700&currStreakLabel=00C7FF&background=0d1117" width="100%" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavi0212&layout=compact&theme=tokyonight&title_color=FFD700&text_color=FFFFFF&bg_color=0d1117" width="45%" alt="Top Languages"/>
+</p>
+
 ---
 
+<!-- 🏆 Achievements -->
 ### 🏆 Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shambhavi0212&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shambhavi0212&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&title_color=FFD700" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/GIFs/coder.gif" width="250" alt="Coding Animation"/>
 </p>
 
 ---
