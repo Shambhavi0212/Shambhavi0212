@@ -31,9 +31,8 @@
 
   <!-- 💼 LinkedIn -->
   <a href="https://www.linkedin.com/in/shambhavi0212/" target="_blank">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3be2e4b5-c3ad-4f7a-b8d6-bd5c7d8a6b45" alt="LinkedIn" width="70" height="70" style="margin: 0 20px;">
-</a>
-
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3be2e4b5-c3ad-4f7a-b8d6-bd5c7d8a6b45" alt="LinkedIn" width="60" height="60" style="margin: 0 20px;">
+  </a>
 
   <!-- 📧 Gmail -->
   <a href="mailto:shambhavivallapi@gmail.com" target="_blank">
@@ -51,6 +50,7 @@
   </a>
 
 </p>
+
 
 
 
