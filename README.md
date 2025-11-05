@@ -25,30 +25,32 @@
 - 💬 Motto: *Code. Create. Contribute. Repeat.*  
 
 ---
-
-<h2 align="left">🔗 Connect with Me</h2>
+<h2 align="left">✨ Connect with Me</h2>
 
 <p align="center">
-  <!-- LinkedIn -->
+
+  <!-- 💼 LinkedIn -->
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="LinkedIn" width="60" height="60">
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/1541997/media/f5e9b2a0496b4e39a4e45d38d3c9637c.gif" alt="LinkedIn" width="70" height="70">
   </a>
 
-  <!-- Gmail -->
+  <!-- 📧 Gmail -->
   <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" alt="Gmail" width="60" height="60">
+    <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" alt="Gmail" width="70" height="70">
   </a>
 
-  <!-- Instagram -->
+  <!-- 📸 Instagram -->
   <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Instagram" width="60" height="60">
+    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Instagram" width="70" height="70">
   </a>
 
-  <!-- Portfolio -->
+  <!-- 🌐 Portfolio -->
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Portfolio" width="60" height="60">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Portfolio" width="70" height="70">
   </a>
+
 </p>
+
 
 
 ---
