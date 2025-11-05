@@ -26,21 +26,33 @@
 
 ---
 
+<!-- 🔗 Connect with Me -->
 ### 🔗 Connect with Me  
+
 <p align="center">
+
+  <!-- 🟦 LinkedIn -->
   <a href="https://www.linkedin.com/in/shambhavi0212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.dribbble.com/users/118774/screenshots/1541997/media/8e588e1f9c5a61d6a8c83e92655eaa6e.gif" width="70" alt="LinkedIn Animated Logo">
   </a>
+
+  <!-- 🟥 Gmail -->
   <a href="mailto:vallapishambhavi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="65" alt="Gmail Icon" style="margin-left:20px;">
   </a>
+
+  <!-- 🟪 Instagram -->
   <a href="https://www.instagram.com/shambhavi0212/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://cdn.pixabay.com/animation/2023/10/06/02/39/instagram-icon-12402_512.gif" width="70" alt="Instagram Animated Logo" style="margin-left:20px;">
   </a>
+
+  <!-- 🟩 Portfolio / Behance -->
   <a href="https://www.shambhavivallapi.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1ABC9C?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/37043079797061.560b7e7b6e2f1.gif" width="75" alt="Portfolio Animated Logo" style="margin-left:20px;">
   </a>
+
 </p>
+
 
 ---
 
