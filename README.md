@@ -36,20 +36,21 @@
 
   <!-- 📧 Gmail -->
   <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://cdn-icons-gif.flaticon.com/1478/1478869.gif" alt="Gmail" width="70" height="70" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="60" height="60" style="margin: 0 20px;">
   </a>
 
   <!-- 📸 Instagram -->
   <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://cdn-icons-gif.flaticon.com/1478/1478870.gif" alt="Instagram" width="70" height="70" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="60" height="60" style="margin: 0 20px;">
   </a>
 
   <!-- 🌐 Portfolio -->
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://cdn-icons-gif.flaticon.com/1478/1478873.gif" alt="Portfolio" width="70" height="70" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="60" height="60" style="margin: 0 20px;">
   </a>
 
 </p>
+
 
 
 
