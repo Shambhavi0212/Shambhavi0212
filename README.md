@@ -3,7 +3,7 @@
 
 <!-- 💻 Animated Girl Coding GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" alt="Girl Coding Animation">
+  <img src="https://app.pixverse.ai/home?detail=show&id=369064824628141&platform=web" width="400" alt="Girl Coding Animation">
 </p>
 
 <!-- 💬 Typing Animation -->
