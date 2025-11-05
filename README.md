@@ -2,17 +2,21 @@
 <h3 align="center">A passionate problem solver and programming enthusiast from Hyderabad, India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java,+Python,+C%2B%2B+Developer;DSA+Enthusiast;Exploring+Web+Development;Love+Turning+Logic+into+Code!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java,+Python,+C%2B%2B+Developer;DSA+Enthusiast;Exploring+Web+Development;Love+Turning+Logic+into+Code!&center=true&width=500&height=45&color=00C7FF">
 </p>
 
+<!-- 🌟 Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shambhavi0212&label=Profile%20views&color=0e75b6&style=flat" alt="Shambhavi0212" />
 </p>
 
+<!-- ⚡ Animated Coding Section -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shambhavi0212" alt="Trophies" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding+is+my+superpower!;Java+•+DSA+•+OOPs+•+Problem+Solving;Turning+Logic+into+Code+💻;Always+Learning,+Always+Building!&center=true&width=600&height=45&color=FFD700">
 </p>
 
 ---
@@ -30,7 +34,7 @@
 
 ### 🔗 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/shambhavi0212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -58,7 +62,7 @@
 
 ### 📈 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Shambhavi0212&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
@@ -73,9 +77,28 @@
 
 ### 📊 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavi0212&layout=compact&theme=radical&langs_count=6)](https://github.com/Shambhavi0212)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavi0212&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shambhavi0212&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
 ### 🧠 Quote I Live By
-> “The more I practice, the luckier I get.” – Gary Player
+> “The more I practice, the luckier I get.” – Gary Player  
+> 💬 *Consistent coding beats raw talent.*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Keep Coding GIF">
+</p>
