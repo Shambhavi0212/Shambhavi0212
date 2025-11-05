@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=💛+Java+Developer;⚙️+OOPs+Enthusiast;🧩+DSA+Problem+Solver;🌐+Frontend+Explorer;🚀+Hackathon+Participant;💡+Lifelong+Learner!" alt="Typing Animation"/>
 </p>
+
 ---
 
 ### 👩‍💻 About Me  
@@ -25,13 +26,14 @@
 - 💬 Motto: *Code. Create. Contribute. Repeat.*  
 
 ---
+
 <h2 align="left">✨ Connect with Me</h2>
 
 <p align="center">
 
   <!-- 💼 LinkedIn -->
   <a href="https://www.linkedin.com/in/shambhavi0212/" target="_blank">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3be2e4b5-c3ad-4f7a-b8d6-bd5c7d8a6b45" alt="LinkedIn" width="60" height="60" style="margin: 0 20px;">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3be2e4b5-c3ad-4f7a-b8d6-bd5c7d8a6b45.gif" alt="LinkedIn" width="60" height="60" style="margin: 0 20px;">
   </a>
 
   <!-- 📧 Gmail -->
@@ -50,12 +52,6 @@
   </a>
 
 </p>
-
-
-
-
-
-
 
 ---
 
