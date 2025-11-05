@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vallapi Shambhavi</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/tal-zvon/tal-zvon/main/assets/Hand_Wave.gif" alt="wave" width="32" height="32" style="vertical-align: middle; margin: 0 6px;" />
+  I'm Vallapi Shambhavi
+</h1>
+
 <h3 align="center">A passionate problem solver and programming enthusiast from Hyderabad, India 🇮🇳</h3>
 
 <!-- 💻 Animated Girl Coding GIF -->
@@ -19,7 +23,7 @@
 - 💻 Passionate about **Java, Frontend Development, and Problem Solving**  
 - ⚙️ Built projects like:  
   - 🌐 **Personal Portfolio Website** (*TypeScript + Vercel*)  
-  - 🌲 **Forest Endangered Detection System (IoT-based)*  
+  - 🌲 **Forest Endangered Detection System (IoT-based)**  
   - 💡 **100 Days DSA Challenge** and **30 Days OOPs Challenge**  
 - 🏅 Certified in **Oracle Cloud**, **ServiceNow**, **Google Cloud**, and **Infosys Springboard DSA**  
 - 🚀 Active participant in **hackathons**, **tech expos**, and **poster competitions**  
